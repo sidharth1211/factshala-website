@@ -1,2 +1,2 @@
 # factshala-website
-Factshala is is factchecking website
+Factshala is a factchecking website
